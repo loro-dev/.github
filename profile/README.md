@@ -1,5 +1,9 @@
 ## Hey, this is Loro 👋
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18425020/236378098-8fbb99ef-e4a2-458f-af9b-d46d3f6e4298.png" width="300"/>
+</p>
+
 We develop toolkits for building local-first software applications. It
 simplifies tasks such as:
 
